@@ -1,2 +1,2 @@
 # DiscordMemberBooster
-# Star = More Leaks
+# Star = More 
